@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestBuildTypeDemo-Developer</string>
+    <string name="end_point">http://10.10.10.10:5000/</string>
+</resources>
